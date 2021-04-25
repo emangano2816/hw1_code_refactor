@@ -1,5 +1,9 @@
 # Homework Assignment 1: Code Refactoring
 
+## URLs
+1. Deployed application: https://emangano2816.github.io/hw1_code_refactor/
+2. GitHub Repository: https://github.com/emangano2816/hw1_code_refactor
+
 ## User Story
 ```
 AS A marketing agency

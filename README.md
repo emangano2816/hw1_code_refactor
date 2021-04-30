@@ -49,3 +49,7 @@ Inside the CSS file the following changes were made:
 3. Reordered code so that the flow of the CSS file followed the semantic structure in the HTML file.
 4. Updated class names, where appropriate (i.e., due to updates in HTML).  
 5. Elimanted chunks of code due to the use of a single class attribute within the main tag and the aside tag.
+
+## Screenshot
+
+![screenshot](/assets/images/screenshot.png)
